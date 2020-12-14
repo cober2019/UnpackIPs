@@ -8,7 +8,7 @@ UnPackIps 2.0.1
 Description
 --------------
 
-IpRanges was designed for Network Engineer to quickly unpack IP ranges. The intention is to avoid spreadsheets, and other
+UnpackIPs was designed for Network Engineer to quickly unpack IP ranges. The intention is to avoid spreadsheets, and other
 methods of IP importing.
 
 Install
