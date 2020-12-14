@@ -15,7 +15,9 @@ methods of IP importing.
 
 Usage
 --------------
-+ A pipe "|" separator is used to separate subnets within the string, and commas and dashes to expand IP addresses.
+
++ Enter addresses as subnets 10.10.1.0/24, ranges within subnet 192.168.1.1-20, or as host ip 192.168.1.1, 2, 3.
++ Subnets must be split between the pipe "|". Example: 192.168.1.1-10|10.10.10.1,2,3| 10.172.1.0/24
 
 **Example 1: Unpacking IPs**
 
@@ -24,7 +26,6 @@ Usage
           '192.168.1.29', '192.168.1.30', '192.168.1.31', '192.168.1.32', '192.168.1.33', '192.168.1.34', '192.168.1.35', '192.168.1.36', '192.168.1.37'
           , '192.168.1.38', '192.168.1.39', '192.168.1.40', '192.168.1.41', '192.168.1.42', '192.168.1.43', '192.168.1.44', '192.168.1.45', '192.168.1.46', '192.168.1.47',
           '192.168.1.48', '192.168.1.49', '192.168.1.50', '192.168.1.1', '8.8.8.8']
-
 
 **Example 2: Unpacking w/ Ping**
 
