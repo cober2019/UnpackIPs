@@ -6,10 +6,11 @@ Description
 IpRanges was designed for Network Engineer to quickly unpack IP ranges. The intention is to avoid spreadsheets, and other
 methods of IP importing.
 
-Dependency
-__________
+**Install**
+------------
 
-+ Python3
++ Download using PIP from PYPI COMMAND=pip install UnpackIPs==2.0.2
++ Import using, from UnPackIps import UnPackIps
 
 Usage
 --------------
