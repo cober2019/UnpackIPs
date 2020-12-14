@@ -10,7 +10,8 @@ methods of IP importing.
 ------------
 
 + Download using PIP from PYPI COMMAND=pip install UnpackIPs==2.0.2
-+ Import using, from UnPackIps import UnPackIps
++ Import using,     
+                    >>> from UnPackIps import UnPackIps
 
 Usage
 --------------
