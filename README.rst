@@ -1,5 +1,7 @@
 .. image:: https://travis-ci.com/cober2019/UnpackIPs.svg?branch=main
     :target: https://travis-ci.com/cober2019/UnpackIPs
+.. image:: https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg
+    :target: https://developer.cisco.com/codeexchange/github/repo/cober2019/UnpackIPs
 
 UnPackIps 2.0.1
 =================
