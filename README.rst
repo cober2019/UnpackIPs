@@ -9,7 +9,7 @@ methods of IP importing.
 **Install**
 ------------
 
-+ Download using PIP from PYPI COMMAND=pip install UnpackIPs==2.0.2
++ Download using PIP from PYPI using **pip install UnpackIPs==2.0.2**
 + Import using,     
                     >>> from UnPackIps import UnPackIps
 
