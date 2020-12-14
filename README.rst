@@ -1,12 +1,12 @@
 UnPackIps 2.0.1
-==============
+=================
 Description
 --------------
 
 IpRanges was designed for Network Engineer to quickly unpack IP ranges. The intention is to avoid spreadsheets, and other
 methods of IP importing.
 
-**Install**
+Install
 ------------
 
 + Download using PIP from PYPI using **pip install UnpackIPs==2.0.2**
